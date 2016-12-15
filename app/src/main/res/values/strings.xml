@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FreeFormEnabler</string>
+    <string name="text">In recent apps screen, long click a app and click button to enter free form mode.Your phone will reboot after finish.NOTICE: This function is EXPERIMENTAL, some(may be lot of) apps will crash\nBy @liangyuteng0927</string>
+</resources>
