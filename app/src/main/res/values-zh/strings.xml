@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FreeFormEnabler</string>
-    <string name="text">在最近任务列表，长按一个应用然后点击按钮进入自由窗口模式。设备将会在完成后重启.注意！这个功能是实验性的！一些（许多）应用会崩溃！\n来自 @liangyuteng0927</string>
+    <string name="text">在最近任务列表，长按一个应用然后点击按钮进入自由窗口模式。请在完成后重启以生效.注意！这个功能是实验性的！一些（许多）应用会崩溃！\n来自 @liangyuteng0927</string>
+    <string name="action_disable">禁用</string>
+    <string name="action_reboot">完成后重启</string>
 </resources>
